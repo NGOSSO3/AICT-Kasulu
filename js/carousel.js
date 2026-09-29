@@ -1,7 +1,7 @@
 const slides = [
-  'images/choir2.jpg',
-  'images/choir3.jpg',
-  'images/choir5.jpg'
+  'images/lusato.jpg',
+  'images/bible.jpg',
+  'images/holy.jpg'
 ];
 
 const heroImage = document.getElementById('heroImage');
